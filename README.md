@@ -44,11 +44,10 @@ Before running this project, make sure you have:
 
 ## 🚀 Quick Start
 
-### 1. Clone the Repository
+### 1. Create the Repository
 
 ```bash
-git clone https://github.com/bradtraversy/mern-auth.git
-cd mern-auth
+
 ```
 
 ### 2. Set Up Environment Variables
