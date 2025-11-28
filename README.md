@@ -47,6 +47,7 @@ Before running this project, make sure you have:
 ### 1. Create the Repository
 
 ```bash
+create the repository with the name and set up the repository
 
 ```
 
@@ -237,10 +238,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
 **Nithin Kumar Kondabattini**
@@ -248,14 +245,12 @@ This project is licensed under the MIT License.
 - Student at SR University
 
 ## 🙏 Acknowledgments
-
-- Original template by [Brad Traversy](https://github.com/bradtraversy/mern-auth)
 - MERN Stack community
 - MongoDB, Express, React, and Node.js teams
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in this repository.
+For support, email NithinKumarKondabattini@gmail.com  or create an issue in this repository.
 
 ---
 
